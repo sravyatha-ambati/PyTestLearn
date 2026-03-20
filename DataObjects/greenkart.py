@@ -21,5 +21,6 @@ class GreenKart:
         expectedList = ['Beetroot - 1 Kg', 'Carrot - 1 Kg', 'Potato - 1 Kg']
 
         assert actualList == expectedList
+        print("comparing between bracnh 1 & branch 2")
 
         # print(Productname)
