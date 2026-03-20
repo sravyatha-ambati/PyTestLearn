@@ -21,5 +21,6 @@ class GreenKart:
         expectedList = ['Beetroot - 1 Kg', 'Carrot - 1 Kg', 'Potato - 1 Kg']
 
         assert actualList == expectedList
+        print("Comparing etween merge conflicts")
 
         # print(Productname)
